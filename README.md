@@ -1,0 +1,7 @@
+-👋 Hi, I’m @KashifAli-IT
+-👀 I’m interested in web development and AI integration.
+-🌱 I’m currently learning advanced web development and AI solutions.
+-💞️ I’m looking to collaborate on web projects that involve AI features and innovative solutions.
+-📫 How to reach me: arainkas60@gmail.com
+-😄 Pronouns: He/Him
+-⚡ Fun fact: I enjoy exploring new tech trends!
