@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Focus-GenAI%20%7C%20RAG%20%7C%20Agents-green?style=flat-square" alt="Focus">
 </p>
 
-I am a final-year Information Technology student and an **AI Developer & Builder** focused on crafting intelligent systems. I specialize in developing practical applications using Generative AI, Retrieval-Augmented Generation (RAG), and Agentic workflows. I thrive in hackathons, love solving real-world problems, and firmly believe in building in public.
+I'm an **AI developer** focused on building real, functional applications. I spend most of my time working with Generative AI, RAG, and agentic workflows—usually prototyping ideas for hackathons or solving practical problems. I believe in building in public and sharing what I learn along the way.
 
 ---
 
