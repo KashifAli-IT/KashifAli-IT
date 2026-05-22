@@ -1,59 +1,54 @@
-# 👋 Hey there, I’m Kashif Ali (@KashifAli-IT)
+# 👋 Hey there, I’m Kashif Ali
 
-🎓 BSIT ‘26 | AI & ML Learner | Exploring GenAI, RAG & LLMs | Future Hackathon Builder | Open to Collaborate & Learn
+<p align="left">
+  <img src="https://img.shields.io/badge/BSIT-%2726-blue?style=flat-square" alt="BSIT 2026">
+  <img src="https://img.shields.io/badge/Role-AI%20Developer%20%26%20Builder-orange?style=flat-square" alt="Role">
+  <img src="https://img.shields.io/badge/Focus-GenAI%20%7C%20RAG%20%7C%20Agents-green?style=flat-square" alt="Focus">
+</p>
 
----
-
-## 🧠 About Me
-
-I’m a BSIT student (Class of 2026) on a journey to explore the world of **Artificial Intelligence** and **Machine Learning**.
-
-Recently, I’ve started diving into exciting topics like:
-- 🤖 **Generative AI**
-- 📚 **Retrieval-Augmented Generation (RAG)**
-- 🧠 **Large Language Models (LLMs)**
-- 📊 **Data Science & Prompt Engineering**
-
-While I’m still early in my journey, I’m committed to:
-- 🚀 Learning deeply
-- 🔧 Building real-world projects
-- 🏆 Participating in AI-focused hackathons
+I am a final-year Information Technology student and an **AI Developer & Builder** focused on crafting intelligent systems. I specialize in developing practical applications using Generative AI, Retrieval-Augmented Generation (RAG), and Agentic workflows. I thrive in hackathons, love solving real-world problems, and firmly believe in building in public.
 
 ---
 
-## 💡 Goals
+## 🛠️ Tech Stack & Focus Areas
 
-- ✅ Complete at least 1 intermediate project per month  
-- ✅ Join 1 hackathon every month  
-- ✅ Post consistently on [LinkedIn](https://www.linkedin.com/in/kashif-ali-arain/)  
-- ✅ Build and maintain a strong GitHub project portfolio  
-- ✅ Grow by collaborating with the AI community  
-
----
-
-## 🤝 I’m Open To...
-
-- 🤝 Collaborating on beginner-friendly AI projects  
-- 🧪 Participating in GenAI hackathons  
-- 🧭 Learning from mentors and experienced developers  
-- 🌐 Exploring open-source contributions  
-
-Let’s connect if you’re working on something exciting or want to support someone learning their way up! 🚀
+| Category | Technologies & Concepts |
+| :--- | :--- |
+| **Core AI & GenAI** | Generative AI, Large Language Models (LLMs), Agentic AI Workflows |
+| **Architecture** | Retrieval-Augmented Generation (RAG), Semantic Search, Vector DBs |
+| **Data & Engineering** | Data Science, Prompt Engineering, Model Integration |
+| **Mindset** | Rapid Prototyping, Hackathon Building, Open-Source Collaboration |
 
 ---
 
-## 🔗 Reach Me
+## 🚀 What I'm Up To
 
-- 📧 Email: **arainkas60@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/kashif-ali-arain](https://www.linkedin.com/in/kashif-ali-arain/)
-- 📁 GitHub: [github.com/KashifAli-IT](https://github.com/KashifAli-IT)
+*   🏗️ **Building:** Developing end-to-end AI products and practical prototypes.
+*   🏆 **Competing:** Actively participating in AI-focused hackathons to push technical boundaries.
+*   📢 **Sharing:** Documenting my build journey, architectural insights, and learnings on LinkedIn.
+*   🤝 **Collaborating:** Always open to teaming up on complex AI workflows, RAG systems, and innovative open-source projects.
+
+---
+
+## 📈 Goals
+
+- [ ] Deploy production-ready AI agents and functional applications monthly.
+- [ ] Collaborate with cross-functional teams in global AI hackathons.
+- [ ] Deepen expertise in local, secure, and cost-effective AI infrastructure.
+- [ ] Expand a robust GitHub portfolio showcasing clean, well-architected code.
+
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/kashif-ali-arain/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:arainkas60@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/KashifAli-IT"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
 ---
 
 ## ⚡ Fun Fact
 
-I love building things with code and turning AI ideas into real, usable tools — all while learning in public.
-
----
-
-_“The best way to learn is to build.” – Me (and probably every good developer)_
+> "The best way to predict the future is to build it." I prefer local hosting, clean application architecture, and turning complex AI concepts into real, usable tools.
