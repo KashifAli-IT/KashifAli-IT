@@ -51,4 +51,4 @@ I am a final-year Information Technology student and an **AI Developer & Builder
 
 ## ⚡ Fun Fact
 
-> "The best way to predict the future is to build it." I prefer local hosting, clean application architecture, and turning complex AI concepts into real, usable tools.
+> "The best way to predict the future is to build it." I prefer clean application architecture, and turning complex AI concepts into real, usable tools.
