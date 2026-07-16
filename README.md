@@ -22,7 +22,7 @@ I'm an **AI developer** focused on building real, functional applications. I spe
 
 ---
 ![](https://streak-stats.demolab.com/?user=KashifAli-IT&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api?username=KashifAli-IT&show_icons=true&theme=dark&hide_border=false&commits_year=2026)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=KashifAli-IT&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
