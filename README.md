@@ -21,8 +21,8 @@ I'm an **AI developer** focused on building real, functional applications. I spe
 | **Mindset** | Rapid Prototyping, Hackathon Building, Open-Source Collaboration |
 
 ---
-![](https://streak-stats.demolab.com/?user=KashifAli-IT&theme=dark&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=KashifAli-IT&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://streak-stats.demolab.com/?user=KashifAli-IT&theme=dark&hide_border=false)
 
 ### Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
